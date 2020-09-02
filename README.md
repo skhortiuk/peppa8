@@ -16,6 +16,6 @@ peppa
 
 # Example output
 <p align="center">
-<img width="30%" src="https://github.com/skhortiuk/peppa/blob/master/static/example.png?raw=True">
+<img width="100%" src="https://github.com/skhortiuk/peppa/blob/master/static/example.png?raw=True">
 </p>
 

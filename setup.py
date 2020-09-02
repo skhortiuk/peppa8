@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='peppa',
-    version='0.1.0',
+    name='peppa8',
+    version='0.1.1',
     packages=[''],
-    url='https://github.com/skhortiuk/peppa',
+    url='https://github.com/skhortiuk/peppa8',
     license='MIT',
     author='Serhii Khortiuk',
     author_email='khortiukserhii@ukr.net',
@@ -12,7 +12,7 @@ setup(
     install_requires=["autopep8"],
     entry_points={
         "console_scripts": [
-            "peppa=peppa:main",
+            "peppa8=peppa8:main",
         ]
     },
 )

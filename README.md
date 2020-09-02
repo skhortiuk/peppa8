@@ -9,8 +9,7 @@ Runs autopep8 on your diff from git.
 
 # Installation
 ```shell script
-git clone https://github.com/skhortiuk/peppa.git peppa
-cd peppa && pip install -e .
+pip install peppa8==0.1.0
 ```
 
 # How to run

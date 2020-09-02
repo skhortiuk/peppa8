@@ -3,6 +3,10 @@
 <img width="30%" src="https://github.com/skhortiuk/peppa/blob/master/static/peppa.jpg?raw=True">
 </p>
 
+
+# How it works
+Runs autopep8 on your diff from git.
+
 # Installation
 ```shell script
 git clone https://github.com/skhortiuk/peppa.git peppa

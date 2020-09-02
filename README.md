@@ -1,4 +1,4 @@
-# peppa
+# peppa8
 <p align="center">
 <img width="30%" src="https://github.com/skhortiuk/peppa8/blob/master/static/peppa.jpg?raw=True">
 </p>

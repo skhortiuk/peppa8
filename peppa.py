@@ -61,7 +61,7 @@ def get_changed_lines(file_path):
     return results
 
 
-if __name__ == "__main__":
+def main():
     files = get_changed_python_files()
     if not files:
         print(color_text("No changes detected", COLOR_GREEN))
@@ -84,3 +84,7 @@ if __name__ == "__main__":
             print(line)
 
     exit(1)
+
+
+if __name__ == "__main__":
+    main()
